@@ -22,10 +22,76 @@ However, running on a low-demand budget means it will open the door to a game wo
 
 Combat will be turn based, and deep, but the PC will be able to devote their entire character to potentially non-combat skills. If they do this, they will be able to pair with companions to make up for this.
 
+## Key influences of the game
+1. Morrowind, Oblivion.
+2. Fallout 1, 2.
+3. Diablo 1, 2.
+4. Wasteland 1, 2, 3.
+
+## Game Themes
+
+The game emphasizes complexity, immersion, simulation, and narrative.
+
+An entire, extremely massive world will be simulated. The player will be one entity that is a part of this. They can interact in the world in a variety of ways that have different scopes. They will get to choose whether they are simply another part of the world, or want to take a more active, center role. They can choose to live a simple life, or become a major hero or villian.
+
+## Graphical System
+
+Visually, the game will emphasize 'text first, graphics second.'
+
+The graphical system is intentionally low demand. It will be outright pixel based potentially, evocative of early terminal/dos games. The furthest graphical stage will be equivalent to that of the early fallout or diablo games. Potentially sprites will be used.
+
+This is intentional to allow the game to be very complex, and be accessible to develop.
+
+This isn't to say the game will have no striking visuals, but it will sacrifice this to an extreme to allow greater complexity.
+
+The game world will be intended to be herculean in scale. The player will be nearly insignificant.
 
 ## Player Character System
 
-**Description**
+**Levels**
+Every entity will have a level. Leveling will be limited up to a very high value. It will be possible to reincarnate to level 1, or possibly sub-levels.
+
+**Rankings**
+
+Rankings will be important to entities. They are a separate scaling system independent of levels. Rankings will be what distinguishes entities from not just their level but also the range of their capability. The player will start at a particular ranking, that is low, but 'special' in a way that sets them apart from other entities. They will recognize other entities in the world by their ranking.
+
+Rankings will not necessarily indicate power, which is tied much more closely with levels. But rankings will be representative of the potential power of an entity overall.
+
+There will be a 'trash' level of rankings. 'Fodder, peon, and minion.'
+
+Somewhere after this there will be a 'normal' level of rankings. 'Citizen, commoner, and soldier.'
+
+Somewhere above this there will start to be a special level of rankings. One is 'agent.' Which possesses a basic kind of specialty. There will likely be a special pre-agent level that the player begins in, then advances into the agent level.
+
+**Character Creation**
+When a new player character is created, they will go through a character creation process.
+
+## RPG System
+
+### Skills
+
+**Non-combat skills**
+
+*Mundane*
+
+*Practical*
+
+*Social*
+
+*Magical*
+
+**Combat skills**
+
+*Martial*
+
+### Stats, Attributes, Abilities, and Roles.
+
+**Stats**
+
+**Roles**
+
+**Abilities**
+
 
 ## Physics/Movement System
 
