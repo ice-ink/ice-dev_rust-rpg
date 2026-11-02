@@ -21,3 +21,44 @@ The closest comparison to the game I have in mind is actually early diablos. A m
 However, running on a low-demand budget means it will open the door to a game world that is massive.
 
 Combat will be turn based, and deep, but the PC will be able to devote their entire character to potentially non-combat skills. If they do this, they will be able to pair with companions to make up for this.
+
+
+## Player Character System
+
+**Description**
+
+## Physics/Movement System
+
+**Description**
+
+## Inventory System
+
+**Description**
+
+## World System
+
+**Description**
+
+## Dialogue System
+
+**Description**
+
+## Non-combat Skills System
+
+**Description**
+
+## Combat System
+
+**Description**
+
+## Book System
+
+**Description**
+
+## Trade/Resource System
+
+**Description**
+
+## Economy System
+
+**Description**
