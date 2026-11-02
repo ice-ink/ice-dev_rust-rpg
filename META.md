@@ -46,6 +46,10 @@ This isn't to say the game will have no striking visuals, but it will sacrifice 
 
 The game world will be intended to be herculean in scale. The player will be nearly insignificant.
 
+## Audio
+
+For now, there will be no voice acting. Building the whole game from text as a starting point is essential to the design, and is important for accessibility. The game will have music and sound effects, but they will be low demand.
+
 ## Player Character System
 
 **Levels**
