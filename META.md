@@ -12,7 +12,7 @@ Some kind of grid/cell based system will describe the space that entities exist 
 
 Entities will be independent of the player. The player will be equivalent to any other entity in the game.
 
-While this is close to a JRPG in description, that is not the intent. Something closer is the early fallout games. The reason for this is that the game is meant to be compelling on the basis of it's narrative and interaction with entities. Lots of reading and writing is a core part of the game. It is meant to be like an interactive storybook.
+While this is close to a JRPG in description, that is not the intent. Something closer is the early fallout games. The reason for this is that the game is meant to be compelling on the basis of it's narrative and interaction with entities. Lots of reading and writing is a core part of the game. It is meant to be like an interactive storybook. Some kind of system will present in the game to allow the player to even write something in the game that will be remembered by the world and potentially affect it.
 
 The setting is fantasy. However, firearms are present but rare. Any firearms are going to be stylized in a western-era equivalent.
 
