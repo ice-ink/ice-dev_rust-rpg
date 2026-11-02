@@ -95,7 +95,8 @@ When a new player character is created, they will go through a character creatio
 
 ## Physics/Movement System
 
-**Description**
+**Grid/Cell Based Movement**
+
 
 ## Inventory System
 
@@ -103,7 +104,11 @@ When a new player character is created, they will go through a character creatio
 
 ## World System
 
-**Description**
+**Terrain**
+
+**Climate**
+
+**Biome**
 
 ## Dialogue System
 
