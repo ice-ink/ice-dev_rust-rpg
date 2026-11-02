@@ -15,3 +15,9 @@ Entities will be independent of the player. The player will be equivalent to any
 While this is close to a JRPG in description, that is not the intent. Something closer is the early fallout games. The reason for this is that the game is meant to be compelling on the basis of it's narrative and interaction with entities. Lots of reading and writing is a core part of the game. It is meant to be like an interactive storybook.
 
 The setting is fantasy. However, firearms are present but rare. Any firearms are going to be stylized in a western-era equivalent.
+
+The closest comparison to the game I have in mind is actually early diablos. A modern equivalent is the recent wasteland games.
+
+However, running on a low-demand budget means it will open the door to a game world that is massive.
+
+Combat will be turn based, and deep, but the PC will be able to devote their entire character to potentially non-combat skills. If they do this, they will be able to pair with companions to make up for this.
