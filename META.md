@@ -8,7 +8,7 @@ If the game runs well on low end, it allows a high degree of complexity in the g
 
 The underlying logic of the game should be nearly equivalent to a terminal-based game.
 
-Some kind of grid/cell based system will describe the space that entities exist in. There will be an overworld, local fields, cities, dungeons, specific rooms, and other areas. The overworld may be the only area that is distinctly different in terms of it's spacial representation.
+Some kind of grid/cell based system will describe the space that entities exist in. There will be an overworld, local fields, cities, dungeons, specific rooms, and other areas. The overworld may be the only area that is distinctly different in terms of it's spacial representation. There will also be alternate/under worlds accessible later on.
 
 Entities will be independent of the player. The player will be equivalent to any other entity in the game.
 
