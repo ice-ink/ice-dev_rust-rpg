@@ -1,0 +1,13 @@
+[package]
+name = "game"
+description = "Bevy shell that renders the ICE engine's world and forwards input."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+# The rules crate. All game logic lives there; this crate only presents it.
+engine = { path = "../engine" }
+# Rendering + ECS skeleton. Default features for a known-good build; we can
+# trim the feature list in a later version to speed up compile times.
+bevy.workspace = true

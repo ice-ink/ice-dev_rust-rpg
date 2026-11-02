@@ -1,0 +1,35 @@
+# ICE — a Rust RPG engine
+#
+# This is a Cargo *workspace*: one repo, several crates that build together.
+# - `crates/engine` — the game rules (map, entities, movement). No rendering.
+# - `crates/game`   — the Bevy shell that draws the world and reads input.
+#
+# Keeping the rules in their own crate means they can be unit-tested with a
+# plain `cargo test`, and a learner can read them without also having to
+# understand a game engine at the same time.
+
+[workspace]
+resolver = "2"
+members = ["crates/*"]
+
+# Settings every member crate inherits via `*.workspace = true`.
+[workspace.package]
+version = "0.2.0"
+edition = "2024"
+# The minimum Rust version the whole workspace needs. Bevy 0.20 requires 1.97.
+rust-version = "1.97.1"
+
+# Versions are pinned in one place so all crates agree on a single version of
+# each dependency. This is the idiomatic way to avoid version drift.
+[workspace.dependencies]
+bevy = "0.20"
+gametools = "0.11"
+# dramaturge = "0.2"  # the narrative/dialogue brain — arrives in v0.03.
+
+# Compile our own crates at opt-level 1 (fast to build, still fast enough to
+# run), but build dependencies at opt-level 3 so the game loop isn't slow.
+[profile.dev]
+opt-level = 1
+
+[profile.dev.package."*"]
+opt-level = 3

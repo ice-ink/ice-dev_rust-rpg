@@ -1,0 +1,11 @@
+[package]
+name = "engine"
+description = "Core game rules for the ICE RPG: map, entities, and movement. Engine-agnostic (no rendering)."
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+# The spatial/math backbone: grid storage, coordinates, and (later) pathfinding,
+# field-of-view, dice, resources and initiative. See v0_01/v0_01.md.
+gametools.workspace = true
