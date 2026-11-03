@@ -70,6 +70,20 @@ Somewhere above this there will start to be a special level of rankings. One is 
 **Character Creation**
 When a new player character is created, they will go through a character creation process.
 
+## Party System
+
+Parties will organize by size. Up to three entities will comprise a duo or team.
+
+Having more than three entities will require that the leader of the party have leadership and management skills.
+
+Parties may be very small, or they may be very large.
+
+Party sizing: 1-3 (duo or team), 4-6 (squad),
+
+Ranking influences party size limits because ranking is a measure of the entities' independence and capability. The player will make a choice between having a small party of highly ranked entities, or a larger party of lower ranked entities.
+
+A 'core' party will generally be 1-3 entities.
+
 ## RPG System
 
 ### Skills
@@ -82,19 +96,65 @@ When a new player character is created, they will go through a character creatio
 
 *Social*
 
+*Language*
+
 *Magical*
+
 
 **Combat skills**
 
 *Martial*
+Unarmed, Blade, Hafted, Polearm,
+
+There will be fighting styles.
+
+*Ranged*
+
+Aiming, Throwing, Archery, Crossbow, Firearms, Reloading.
+
+*Supportive*
+
+*Magical*
+
 
 ### Stats, Attributes, Abilities, and Roles.
 
+**Physicals**
+
+*Entity classification* (e.g. humanoid, animal, monster, demon, spirit, eldritch, etc.)
+
+*Racial* (this is particular to humanoid)
+
+*Height*
+
+*Weight*
+
+
 **Stats**
+
+Derived/Intrinsic?
+
+*Strength*
+*Dexterity*
+*Constitution*
+*Intelligence*
+*Wisdom*
+*Charisma*
+*Attunement*
 
 **Roles**
 
+Roles are flexible. Entities have no role by default. They can take on one. A role is selectable by meeting certain conditions. Once taken, it is possible to leave the role, but some consequences may occur.
+
+Some basic roles will be: Fighter, Mage, Thief. Special role examples: Gunslinger, Assassin, Priest, Sorcerer. These are examples of combat-oriented roles. There will be alternates non-combat oriented roles.
+
+**Feats**
+
+Special descriptive passives.
+
 **Abilities**
+
+Special activated abilities.
 
 
 ## Physics/Movement System
