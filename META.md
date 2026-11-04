@@ -27,6 +27,7 @@ Combat will be turn based, and deep, but the PC will be able to devote their ent
 2. Fallout 1, 2.
 3. Diablo 1, 2.
 4. Wasteland 1, 2, 3.
+5. Shadows of Forbidden Gods
 
 ## Game Themes
 
@@ -159,6 +160,10 @@ Special activated abilities.
 
 ## Physics/Movement System
 
+**Spatial Representation**
+
+The world will be divided into planes, and cells. There will be an overworld. Objects and entities will be drawn on a grid with coordinates. The grids can have different geometric shapes. Elevation levels will be accounted for as well.
+
 **Grid/Cell Based Movement**
 
 
@@ -197,3 +202,11 @@ Special activated abilities.
 ## Economy System
 
 **Description**
+
+## Lore
+
+One of the game's essential entities will be something called 'The Dark' as well as it's avatar incarnate 'The Shadow Behind the Void.' Few people are aware of this entity and it's nature. One NPC in the game will be particularly aware of and attuned to it, who is exceptional, but will be entirely optional to ever interact with despite their extraordinary connection to this central entity.
+
+When the game first starts, the world will be in a fairly stable, static state. Specific events will cause plot events to happen that begin to create disturbances in the world. This is similar to how oblivion and skyrim's plot progression happens. Until specific triggers occur, the main events of the game are meant to be held in stasis, although some things may be happening quietly behind the scences which the player is not aware of.
+
+Magic has a generally corrupting nature towards those who use it. It is exceptionally rare to find magic users or magical artifacts, although in some areas of the game, it will be highly prevalent and concentrated. Most civilized societies do not have anything to do with magic, but a few will center it as a strong component of their representation. There will be at least a few enclaves that specialize in it. There will be a formal mages guild in some places, in others, magic being essentially shunned will be a narrative element.
