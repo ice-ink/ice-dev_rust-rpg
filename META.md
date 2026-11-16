@@ -23,7 +23,7 @@ However, running on a low-demand budget means it will open the door to a game wo
 Combat will be turn based, and deep, but the PC will be able to devote their entire character to potentially non-combat skills. If they do this, they will be able to pair with companions to make up for this.
 
 ## Key influences of the game
-1. Morrowind, Oblivion.
+1. Morrowind, Oblivion, Ultima 7.
 2. Fallout 1, 2.
 3. Diablo 1, 2.
 4. Wasteland 1, 2, 3.
